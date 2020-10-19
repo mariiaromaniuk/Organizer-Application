@@ -3,5 +3,5 @@ The goal of the project was to create an application Task Organizer utilizing C+
 
 Although SQLite3 comes preinstalled on MAC OS it didn’t work for some reason, so I had to download and install SQLite C source code, and a bundle of command-line tools for managing SQLite database files, including the command-line shell program, the sqldiff program, and the sqlite3_analyzer program. I also downloaded and installed DB Browser for SQLite and Qt Creator for GUI.  
 
-## Task Organizer Demo  
+## Application Demo  
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/ImVWTNEq0jk/0.jpg)](http://www.youtube.com/watch?v=ImVWTNEq0jk "Task Organizer Application Demo")
